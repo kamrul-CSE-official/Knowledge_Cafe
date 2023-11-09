@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "Understanding JavaScript Promises",
-    "cover": "https://example.com/js-promises-cover.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNf4lFUK2zCq5xQuK8ZVYgpWcTm4FGW4XbCBWpGCieUbVUQ3ESf599hqyBK33Y9yPHavw&usqp=CAU",
     "author": {
       "name": "John Coder",
-      "img": "https://example.com/john-coder.jpg"
+      "img": "https://img.freepik.com/premium-photo/modern-business-man-formal-suit-standing-with-crossed-arms-isolated-grey-background-businesspeople-concept_533057-1641.jpg"
     },
     "published_date": "2023-03-15",
     "reading_time": 10,
@@ -14,10 +14,10 @@
   {
     "id": 2,
     "title": "Python Tips and Tricks for Beginners",
-    "cover": "https://example.com/python-tips-cover.jpg",
+    "cover": "https://kruschecompany.com/wp-content/uploads/2021/11/cover-image-for-blog-on-python-developer-salary-ranges-1024x476.png",
     "author": {
       "name": "Jane Developer",
-      "img": "https://example.com/jane-developer.jpg"
+      "img": "https://img.freepik.com/premium-photo/young-perfectionist-handsome-young-man-formal-wear-keeping-hands-clasped-looking-camera-with-smile-while-standing-against-grey-background_425904-4831.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699315200&semt=ais"
     },
     "published_date": "2023-04-02",
     "reading_time": 8,
@@ -26,10 +26,10 @@
   {
     "id": 3,
     "title": "Responsive Web Design with CSS Grid",
-    "cover": "https://example.com/css-grid-cover.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAx60GbK17OsU1M06V_dHfjKyy_l98zudTFPH0Cdb5eKMjJSJtc1Z7AGUsku0JfHMLyA&usqp=CAU",
     "author": {
       "name": "Alex Designer",
-      "img": "https://example.com/alex-designer.jpg"
+      "img": "https://images.pexels.com/photos/3777557/pexels-photo-3777557.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
     "published_date": "2023-05-20",
     "reading_time": 12,
@@ -38,10 +38,10 @@
   {
     "id": 4,
     "title": "Node.js Best Practices for Scalable Applications",
-    "cover": "https://example.com/nodejs-best-practices-cover.jpg",
+    "cover": "https://cdn.buttercms.com/3FHJ3r3KT9iWbj2k6a7T",
     "author": {
       "name": "Sam Server",
-      "img": "https://example.com/sam-server.jpg"
+      "img": "https://media.e-valy.com/cms/products/images/690d4884-ff57-4669-862e-e8e84434e4a0"
     },
     "published_date": "2023-06-10",
     "reading_time": 15,
@@ -50,10 +50,10 @@
   {
     "id": 5,
     "title": "Getting Started with React Hooks",
-    "cover": "https://example.com/react-hooks-cover.jpg",
+    "cover": "https://www.claritusconsulting.com/wp-content/uploads/2023/04/REACT-DEVELOPMENT-SERVICES-BLOG-COVER@2x-scaled.jpg",
     "author": {
       "name": "Rebecca Reactor",
-      "img": "https://example.com/rebecca-reactor.jpg"
+      "img": "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg"
     },
     "published_date": "2023-07-05",
     "reading_time": 7,
@@ -62,10 +62,10 @@
   {
     "id": 6,
     "title": "Dive into Data Science with Python Pandas",
-    "cover": "https://example.com/python-pandas-cover.jpg",
+    "cover": "https://i.ytimg.com/vi/PfVxFV1ZPnk/sddefault.jpg",
     "author": {
       "name": "Diana Data",
-      "img": "https://example.com/diana-data.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyJbqEqAmcyGkjyi6T8YsxEGjfrLAxEU2RY7ulZ0Spu_ABc6KWaQsp8Yd92nkgCqKAh8&usqp=CAU"
     },
     "published_date": "2023-08-22",
     "reading_time": 18,
@@ -74,10 +74,10 @@
   {
     "id": 7,
     "title": "CSS Grid Layout: Beyond the Basics",
-    "cover": "https://example.com/css-grid-beyond-cover.jpg",
+    "cover": "https://blog.nazrulkabir.com/wp-content/uploads/2020/09/a-deep-dive-into-css-grid.jpg",
     "author": {
       "name": "Chris Styler",
-      "img": "https://example.com/chris-styler.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTl-dj9v_7bF_4qpRw8bKaVnrDW1t-MgEfIH8dDRUcA0l4z4QUU2VcGtdhuQev2i7Vbro&usqp=CAU"
     },
     "published_date": "2023-09-18",
     "reading_time": 14,
@@ -86,10 +86,10 @@
   {
     "id": 8,
     "title": "Exploring the World of GraphQL",
-    "cover": "https://example.com/graphql-exploration-cover.jpg",
+    "cover": "https://mobifly.tech/wp-content/uploads/2021/04/API-blog-cover-1.jpg",
     "author": {
       "name": "Gina GraphQL",
-      "img": "https://example.com/gina-graphql.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK5c09Q4qDYWq6chwBSred0O2TMHYxY5ZYt7h_Oi8pKncZHUPMJ7pLzX2OqVnvzIPLXP8&usqp=CAU"
     },
     "published_date": "2023-10-12",
     "reading_time": 11,
@@ -98,10 +98,10 @@
   {
     "id": 9,
     "title": "Secure Your Web Applications with JWT",
-    "cover": "https://example.com/jwt-security-cover.jpg",
+    "cover": "https://avatao.com/media/JWT-blogpost.png",
     "author": {
       "name": "Security Steve",
-      "img": "https://example.com/security-steve.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReuuDDMwmqIpATdAxBM5nSltaiP2hmsg-u5AQPjtgDMDw76BzrJvqivhV2Y3KMWasUijg&usqp=CAU"
     },
     "published_date": "2023-11-05",
     "reading_time": 9,
