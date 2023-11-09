@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { BsBookmarkDash } from "react-icons/bs";
 
-export default function Blog({ blog, handleBookmark }) {
+export default function Blog({ blog, handleBookmark, handleMarkAsRead }) {
   const { title, cover, reading_time, author, published_date, hashtags } = blog;
   return (
     <div className="mb-20">
@@ -42,7 +42,7 @@ export default function Blog({ blog, handleBookmark }) {
       </div>
       <div>
         <h2 className="text-4xl">{title}</h2>
-        <p className="text-blue-500 my-4">
+        <p className="text-gray-500 my-4">
           {hashtags.map((hashtag, i) => (
             <span key={i}>
               {" "}
@@ -50,6 +50,14 @@ export default function Blog({ blog, handleBookmark }) {
             </span>
           ))}
         </p>
+        <button
+          onClick={() => {
+            handleMarkAsRead(reading_time);
+          }}
+          className="btn text-blue-600 border border-blue-900"
+        >
+          Mark as read
+        </button>
       </div>
     </div>
   );
@@ -58,4 +66,5 @@ export default function Blog({ blog, handleBookmark }) {
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
   handleBookmark: PropTypes.func.isRequired,
+  handleMarkAsRead: PropTypes.func.isRequired,
 };
